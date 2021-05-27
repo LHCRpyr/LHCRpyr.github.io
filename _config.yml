@@ -12,11 +12,12 @@ description: Web Developer from Somewhere
 avatar: https://www.dropbox.com/s/llisn4uciiw6qvt/Color%20logo%20with%20background.png?dl=0
 
 #RSS Feed params
-plugins:
-  - jekyll-feed
-title: Rinus Lai Blog
-description: Welcome to my blog
-author: Rinus Lai
+#plugins:
+#  - jekyll-feed
+#title: Rinus Lai Blog
+#description: Welcome to my blog
+#author: Rinus Lai
+#https://dzhavat.github.io/2020/01/19/adding-an-rss-feed-to-github-pages.html
 
 #
 # Flags below are optional
