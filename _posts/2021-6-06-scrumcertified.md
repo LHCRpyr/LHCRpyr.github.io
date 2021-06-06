@@ -3,8 +3,6 @@ layout: post
 title: Why Scrum Certifications doesn't make you Agile
 ---
 
-![devops-3148393_1280.png]((/images/2021-6-06-ScrumCertified/devops-3148393_1280.png)
-
 Here's my take on the the scrum framework and the certifications, so you can decide on whether you should invest time in learning it.
 
 I have gone off on a learning tangent these past few weeks, trying to absorb as much information as I can about the [Agile methodology](https://agilemanifesto.org/) or more specifically, the Scrum framework. 
