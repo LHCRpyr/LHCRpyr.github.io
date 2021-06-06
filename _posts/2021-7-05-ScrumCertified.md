@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Why I got certified as a scrum master
+title: Why Scrum Certifications doesn't make you Agile
 ---
+
+![devops-3148393_1280]({{ BASE_PATH }}/imagesdevops-3148393_1280.png)
 
 Here's my take on the the scrum framework and the certifications, so you can decide on whether you should invest time in learning it.
 
@@ -35,21 +37,16 @@ I view scrum as a means to execute on agile methodologies for teams that are sti
 
 A classic example of how a scrum team can evolve is through observation of the daily scrum meetings (the daily stand-ups). It is likely that with new scrum teams, the scrum masters will have to facilitate meetings by asking the 3 'stand-up questions' (usually via round robin to ensure participation by all team members). With mature scrum teams, even without the presence of the scrum master, the team members are quick to update the rest of the team on their progress identify 'impediments' to their progress.
 
+What is most worrying about new organisations implementing agile is a clear misunderstanding of the role of scrum masters in the agile teams. Many job postings 
+
 ## The Scrum Certification Dilemma
 
 In my opinion,the certification is heavily misunderstood due to the terminology used in the framework. A 'scrum master' is a role and not a representation of one's *<u>mastery</u>* of leading scrum teams.  This means that new agile organisations are at risk of giving freshly Certified Scrum Masters too much credit for transforming agile teams.
 
 I would consider the Scrum Master certification to be a validation of your understanding of the fundamentals of scrum and its processes. Real practitioners understand that experience and continuous improvement mindsets are far more valuable than any certification could possibly offer. 
 
-Even the trainers that taught me placed heavy emphasis on developing an agile mindset and continuous learning. It certainly feels like they too understand that 16 hours is not enough time  for anyone to be come a proficient Scrum Master. 
+Even the trainers that taught me placed heavy emphasis on developing an agile mindset and continuous learning. After the 16 hour course, I certainly understood the principles and practices of Scrum in service of trying to be Agile. However, it is definitely not enough time  for anyone to be come a proficient Scrum Master. My Scrum trainers left the newly minted certified scum masters with a huge learning resources including books, podcasts and regular events held by the Scrum Community.
 
-If you're about start leading a scrum team as a scrum master, the certification on its own is useless. What is more important takeaway from the course is developing an understanding of the purpose of each activity and how to build an agile mindset. The scrum master is only as good as the team: everything that the scrum master does is in service of developing the team's agility. Being able to make explain the purpose behind scrum activities and helping team members understand the meaning behind scrum events is likely to be more useful than blindly executing the 'rituals.'
+I can hear you asking: "Should I get scrum master certified?" If you're about start leading a scrum team as a scrum master, the certification on its own is useless. What is more important takeaway from the course is developing an understanding of the purpose of each activity and how to build an agile mindset. The scrum master is only as good as the team: everything that the scrum master does is in service of developing the team's agility. Being able to make explain the purpose behind scrum activities and helping team members understand the meaning behind scrum events is likely to be more useful than blindly executing the 'rituals.'
 
-If you are new to Agile or Scrum, getting that certification is tremendously useful in accelerating your agile learning journey, just remember that the learning does not stop after getting certified.
-
-
-
-
-
-
-
+If you are new to Agile or Scrum, getting that certification is tremendously useful in accelerating your agile learning journey via Scrum, just remember that the learning does not stop after getting certified.
