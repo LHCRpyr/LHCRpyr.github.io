@@ -3,7 +3,7 @@ layout: post
 title: Why Scrum Certifications doesn't make you Agile
 ---
 
-![_config.yml]({{ site.baseurl }}/images/{{title}}/devops-3148393_1280.png)
+![_config.yml]({{ site.baseurl }}/images/2021-6-06-ScrumCertified/devops-3148393_1280.png)
 
 Here's my take on the the scrum framework and the certifications, so you can decide on whether you should invest time in learning it.
 
